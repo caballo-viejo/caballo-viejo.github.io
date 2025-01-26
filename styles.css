@@ -1,1 +1,6 @@
 body {background-color: #2BD4B2;}
+
+#headshot {
+    min-height: 30em;
+    min-width: 30em;
+}
